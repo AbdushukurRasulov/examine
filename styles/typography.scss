@@ -1,0 +1,35 @@
+h1 {
+  @apply text-36 lg:text-5xl xl:text-60;
+}
+
+h2 {
+  @apply text-20 lg:text-4xl xl:text-40;
+}
+
+h3 {
+  @apply text-16 lg:text-30;
+}
+
+h4 {
+  @apply text-xl lg:text-25;
+}
+
+h5 {
+  @apply text-xs lg:text-22;
+}
+
+h6 {
+  @apply text-18;
+}
+
+.p-xl {
+  @apply text-lg xl:text-xl xl:leading-8;
+}
+
+.p-lg {
+  @apply xl:text-lg;
+}
+
+.p-sm {
+  @apply text-sm;
+}

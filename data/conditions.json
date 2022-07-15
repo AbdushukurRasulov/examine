@@ -1,0 +1,389 @@
+{
+  "lists": [
+    {
+      "alphabet": "a",
+      "interventions": [
+        {
+          "name": "ADHD",
+          "new": true
+        },
+        {
+          "name": "ALC",
+          "new": false
+        },
+        {
+          "name": "ATP Regeneration",
+          "new": false
+        },
+        {
+          "name": "Abdominal Pain",
+          "new": false
+        },
+        {
+          "name": "Acne",
+          "new": false
+        },
+        {
+          "name": "Adaptations to Exercise",
+          "new": false
+        },
+        {
+          "name": "ADHD",
+          "new": false
+        },
+        {
+          "name": "ALC",
+          "new": false
+        },
+        {
+          "name": "ATP Regeneration",
+          "new": true
+        },
+        {
+          "name": "Abdominal Pain",
+          "new": false
+        },
+        {
+          "name": "Acne",
+          "new": false
+        },
+        {
+          "name": "Adaptations to Exercise",
+          "new": false
+        },
+        {
+          "name": "ADHD",
+          "new": true
+        },
+        {
+          "name": "ALC",
+          "new": false
+        },
+        {
+          "name": "ATP Regeneration",
+          "new": false
+        },
+        {
+          "name": "Abdominal Pain",
+          "new": false
+        },
+        {
+          "name": "Acne",
+          "new": false
+        },
+        {
+          "name": "Adaptations to Exercise",
+          "new": false
+        }
+      ]
+    },
+    {
+      "alphabet": "b",
+      "interventions": [
+        {
+          "name": "ADHD",
+          "new": true
+        },
+        {
+          "name": "ALC",
+          "new": false
+        },
+        {
+          "name": "ATP Regeneration",
+          "new": false
+        },
+        {
+          "name": "Abdominal Pain",
+          "new": false
+        },
+        {
+          "name": "Acne",
+          "new": false
+        },
+        {
+          "name": "Adaptations to Exercise",
+          "new": false
+        },
+        {
+          "name": "ADHD",
+          "new": false
+        },
+        {
+          "name": "ALC",
+          "new": false
+        },
+        {
+          "name": "ATP Regeneration",
+          "new": true
+        },
+        {
+          "name": "Abdominal Pain",
+          "new": false
+        },
+        {
+          "name": "Acne",
+          "new": false
+        },
+        {
+          "name": "Adaptations to Exercise",
+          "new": false
+        },
+        {
+          "name": "ADHD",
+          "new": true
+        },
+        {
+          "name": "ALC",
+          "new": false
+        },
+        {
+          "name": "ATP Regeneration",
+          "new": false
+        },
+        {
+          "name": "Abdominal Pain",
+          "new": false
+        },
+        {
+          "name": "Acne",
+          "new": false
+        },
+        {
+          "name": "Adaptations to Exercise",
+          "new": false
+        }
+      ]
+    },
+    {
+      "alphabet": "c",
+      "interventions": [
+        {
+          "name": "ADHD",
+          "new": true
+        },
+        {
+          "name": "ALC",
+          "new": false
+        },
+        {
+          "name": "ATP Regeneration",
+          "new": false
+        },
+        {
+          "name": "Abdominal Pain",
+          "new": false
+        },
+        {
+          "name": "Acne",
+          "new": false
+        },
+        {
+          "name": "Adaptations to Exercise",
+          "new": false
+        },
+        {
+          "name": "ADHD",
+          "new": false
+        },
+        {
+          "name": "ALC",
+          "new": false
+        },
+        {
+          "name": "ATP Regeneration",
+          "new": true
+        },
+        {
+          "name": "Abdominal Pain",
+          "new": false
+        },
+        {
+          "name": "Acne",
+          "new": false
+        },
+        {
+          "name": "Adaptations to Exercise",
+          "new": false
+        },
+        {
+          "name": "ADHD",
+          "new": true
+        },
+        {
+          "name": "ALC",
+          "new": false
+        },
+        {
+          "name": "ATP Regeneration",
+          "new": false
+        },
+        {
+          "name": "Abdominal Pain",
+          "new": false
+        },
+        {
+          "name": "Acne",
+          "new": false
+        },
+        {
+          "name": "Adaptations to Exercise",
+          "new": false
+        }
+      ]
+    },
+    {
+      "alphabet": "d",
+      "interventions": [
+        {
+          "name": "ADHD",
+          "new": true
+        },
+        {
+          "name": "ALC",
+          "new": false
+        },
+        {
+          "name": "ATP Regeneration",
+          "new": false
+        },
+        {
+          "name": "Abdominal Pain",
+          "new": false
+        },
+        {
+          "name": "Acne",
+          "new": false
+        },
+        {
+          "name": "Adaptations to Exercise",
+          "new": false
+        },
+        {
+          "name": "ADHD",
+          "new": false
+        },
+        {
+          "name": "ALC",
+          "new": false
+        },
+        {
+          "name": "ATP Regeneration",
+          "new": true
+        },
+        {
+          "name": "Abdominal Pain",
+          "new": false
+        },
+        {
+          "name": "Acne",
+          "new": false
+        },
+        {
+          "name": "Adaptations to Exercise",
+          "new": false
+        },
+        {
+          "name": "ADHD",
+          "new": true
+        },
+        {
+          "name": "ALC",
+          "new": false
+        },
+        {
+          "name": "ATP Regeneration",
+          "new": false
+        },
+        {
+          "name": "Abdominal Pain",
+          "new": false
+        },
+        {
+          "name": "Acne",
+          "new": false
+        },
+        {
+          "name": "Adaptations to Exercise",
+          "new": false
+        }
+      ]
+    },
+    {
+      "alphabet": "e",
+      "interventions": [
+        {
+          "name": "ADHD",
+          "new": true
+        },
+        {
+          "name": "ALC",
+          "new": false
+        },
+        {
+          "name": "ATP Regeneration",
+          "new": false
+        },
+        {
+          "name": "Abdominal Pain",
+          "new": false
+        },
+        {
+          "name": "Acne",
+          "new": false
+        },
+        {
+          "name": "Adaptations to Exercise",
+          "new": false
+        },
+        {
+          "name": "ADHD",
+          "new": false
+        },
+        {
+          "name": "ALC",
+          "new": false
+        },
+        {
+          "name": "ATP Regeneration",
+          "new": true
+        },
+        {
+          "name": "Abdominal Pain",
+          "new": false
+        },
+        {
+          "name": "Acne",
+          "new": false
+        },
+        {
+          "name": "Adaptations to Exercise",
+          "new": false
+        },
+        {
+          "name": "ADHD",
+          "new": true
+        },
+        {
+          "name": "ALC",
+          "new": false
+        },
+        {
+          "name": "ATP Regeneration",
+          "new": false
+        },
+        {
+          "name": "Abdominal Pain",
+          "new": false
+        },
+        {
+          "name": "Acne",
+          "new": false
+        },
+        {
+          "name": "Adaptations to Exercise",
+          "new": false
+        }
+      ]
+    }
+  ]
+}

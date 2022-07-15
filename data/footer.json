@@ -1,0 +1,110 @@
+{
+  "socials": [
+    {
+      "name": "instagram",
+      "icon": "instagram",
+      "href": "/"
+    },
+    {
+      "name": "linkedin",
+      "icon": "linkedin",
+      "href": "/"
+    },
+    {
+      "name": "twitter",
+      "icon": "twitter",
+      "href": "/"
+    },
+    {
+      "name": "youtube",
+      "icon": "youtube",
+      "href": "/"
+    }
+  ],
+  "navLinks": [
+    {
+      "section": "About Examine",
+      "links": [
+        {
+          "name": "About Us",
+          "href": "/"
+        },
+        {
+          "name": "Our story",
+          "href": "/"
+        },
+        {
+          "name": "Our team",
+          "href": "/"
+        },
+        {
+          "name": "Our editorial policy",
+          "href": "/"
+        },
+        {
+          "name": "Our mistakes",
+          "href": "/"
+        },
+        {
+          "name": "Join our team",
+          "href": "/"
+        },
+        {
+          "name": "Contact us",
+          "href": "/"
+        }
+      ]
+    },
+    {
+      "section": "Resources",
+      "links": [
+        {
+          "name": "Continuing Education",
+          "href": "/"
+        },
+        {
+          "name": "Access for journalists",
+          "href": "/"
+        },
+        {
+          "name": "Student Discount",
+          "href": "/"
+        },
+        {
+          "name": "Senior Discount",
+          "href": "/"
+        },
+        {
+          "name": "How to Read a Study",
+          "href": "/"
+        }
+      ]
+    },
+    {
+      "section": "Quick Links",
+      "links": [
+        {
+          "name": "Categoriesn",
+          "href": "/"
+        },
+        {
+          "name": "Conditions",
+          "href": "/"
+        },
+        {
+          "name": "Outcomes",
+          "href": "/"
+        },
+        {
+          "name": "Membership",
+          "href": "/",
+          "trail": "Free Trial"
+        },
+        {
+          "name": "Protein Intake Guide + Calculator",
+          "href": "/"
+        }
+      ]
+    }
+  ]
+}

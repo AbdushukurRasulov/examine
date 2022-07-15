@@ -1,0 +1,22 @@
+.home-brands .swiper-wrapper {
+  @apply flex items-center;
+}
+
+.explore-examine-pagination .swiper-pagination-bullet-active {
+  @apply w-6 rounded-lg bg-primary transition-[width] duration-200 #{!important};
+}
+
+.users-saying .swiper-slide {
+  transform: scale(0.9);
+}
+.users-saying .swiper-slide-active {
+  transform: scale(1);
+}
+
+.doctors-pagination .swiper-pagination-bullet {
+  @apply h-2.5 w-2.5 cursor-pointer rounded-full bg-primary opacity-100;
+}
+
+.doctors-pagination .swiper-pagination-bullet-active {
+  @apply h-3.5 w-3.5 border-[3px] border-primary bg-white;
+}

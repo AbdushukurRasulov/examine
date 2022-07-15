@@ -1,0 +1,34 @@
+@layer utilities {
+  .accordion-arrow {
+    @apply top-1/2 -left-7 grid h-7 w-7 shrink-0 place-content-center rounded-full bg-examine-purple-100/50 lg:absolute lg:h-auto lg:w-auto lg:-translate-y-1/2 lg:bg-transparent;
+  }
+}
+
+.isActive-about {
+  @apply text-examine-green-500;
+}
+
+// Scroll bar body
+body::-webkit-scrollbar {
+  @apply w-1 rounded-full;
+}
+
+body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+body::-webkit-scrollbar-thumb {
+  @apply rounded-full bg-primary;
+}
+
+// Scroll bar horizontal
+.scroll-x::-webkit-scrollbar {
+  @apply h-0;
+}
+
+// Scroll Vertical
+.scroll-y::-webkit-scrollbar {
+  @apply w-0;
+}
+
+

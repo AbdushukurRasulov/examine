@@ -1,0 +1,448 @@
+{
+  "explores": [
+    {
+      "title": "Explore Conditions",
+      "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "lists": ["Magnesium", "Boron", "Vitamin D"],
+      "see-all": "/"
+    },
+    {
+      "title": "Explore Interventions",
+      "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "lists": ["Magnesium", "Boron", "Vitamin D"],
+      "see-all": "/"
+    },
+    {
+      "title": "Explore Outcome",
+      "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "lists": ["Magnesium", "Boron", "Vitamin D"],
+      "see-all": "/"
+    },
+    {
+      "title": "Explore Categories",
+      "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "lists": ["Magnesium", "Boron", "Vitamin D"],
+      "see-all": "/"
+    },
+    {
+      "title": "Explore Categories",
+      "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "lists": ["Magnesium", "Boron", "Vitamin D"],
+      "see-all": "/"
+    },
+    {
+      "title": "Explore Conditions",
+      "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "lists": ["Magnesium", "Boron", "Vitamin D"],
+      "see-all": "/"
+    },
+    {
+      "title": "Explore Conditions",
+      "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "lists": ["Magnesium", "Boron", "Vitamin D"],
+      "see-all": "/"
+    },
+    {
+      "title": "Explore Conditions",
+      "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "lists": ["Magnesium", "Boron", "Vitamin D"],
+      "see-all": "/"
+    }
+  ],
+  "studyDatabase": [
+    {
+      "title": "Conditions",
+      "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. "
+    },
+    {
+      "title": "Interventions",
+      "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. "
+    },
+    {
+      "title": "Outcomes",
+      "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. "
+    },
+    {
+      "title": "Effect",
+      "text": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. "
+    }
+  ],
+  "research": [
+    {
+      "title": "Thorough",
+      "text": "Our research team pours through hundreds of studies and clinical trials to bring you concise health information"
+    },
+    {
+      "title": "Evidence-based",
+      "text": "We cite our sources, and allow you to delve as deep as we do"
+    },
+    {
+      "title": "Independent",
+      "text": "We don’t accept donors, sponsors, advertisements, or paid afiliations"
+    },
+    {
+      "title": "Transparent",
+      "text": "We keep our users updated when mistakes are identified as a result of our constant revision."
+    }
+  ],
+  "guides": [
+    {
+      "title": "Allergies & Immunity",
+      "free": false,
+      "supplements": [
+        {
+          "work": ["Vitamin A", "?", "?"]
+        },
+        {
+          "mayWork": [
+            "Coconut oil",
+            "Polypodium leucotomos",
+            "?",
+            "?",
+            "?",
+            "?"
+          ]
+        },
+        {
+          "avoid": ["Tinospora cordifolia", "?"]
+        }
+      ]
+    },
+    {
+      "title": "Bone Health",
+      "free": false,
+      "supplements": [
+        {
+          "work": ["Vitamin D", "Vitamin K", "?", "?", "?"]
+        },
+        {
+          "mayWork": ["Coral calcium", "?"]
+        }
+      ]
+    },
+    {
+      "title": "Cardiovascular Health",
+      "free": false,
+      "supplements": [
+        {
+          "work": ["Cocoa", "CoQ10", "Garlic"]
+        },
+        {
+          "mayWork": ["Pine bark", "?", "?"]
+        },
+        {
+          "avoid": ["Stimulants", "?"]
+        }
+      ]
+    },
+    {
+      "title": "Joint Health",
+      "free": false,
+      "supplements": [
+        {
+          "work": ["Boswellia serrata", "Curcumin", "?", "?", "?", "?"]
+        },
+        {
+          "mayWork": ["MSM", "?", "?", "?"]
+        },
+        {
+          "avoid": ["CBD (cannabidiol)", "?"]
+        }
+      ]
+    },
+    {
+      "title": "Healthy Aging",
+      "free": true,
+      "supplements": [
+        {
+          "work": [
+            "Protin",
+            "Vitamin B",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+          ]
+        },
+        {
+          "mayWork": ["Vitamin E"]
+        },
+        {
+          "avoid": ["Vitamin B (folic acid)", "?", "?", "?", "?"]
+        }
+      ]
+    },
+    {
+      "title": "Libido & Sexual Function",
+      "free": false,
+      "supplements": [
+        {
+          "work": ["Maca", "?", "?", "?"]
+        },
+        {
+          "mayWork": ["Cocoa", "Fenugreek", "?", "?"]
+        },
+        {
+          "avoid": ["Libido enhancers", "Testosterone boosters"]
+        }
+      ]
+    },
+    {
+      "title": "Mood & Depression",
+      "free": false,
+      "supplements": [
+        {
+          "work": ["St. John's", "Zinc", "?", "?", "?", "?"]
+        },
+        {
+          "mayWork": ["NAC", "?"]
+        },
+        {
+          "avoid": ["Psychostimulants", "?"]
+        }
+      ]
+    },
+    {
+      "title": "Muscle Gain & Exercise",
+      "free": false,
+      "supplements": [
+        {
+          "work": ["Creatine", "Nitrates", "?", "?", "?", "?"]
+        },
+        {
+          "mayWork": ["HMB", "?", "?", "?", "?", "?", "?"]
+        },
+        {
+          "avoid": ["Glutamine", "?"]
+        }
+      ]
+    },
+    {
+      "title": "Skin, Hair & Nails",
+      "free": false,
+      "supplements": [
+        {
+          "work": ["Vitamin A", "?", "?"]
+        },
+        {
+          "mayWork": ["Coconut oil", "Polypodium leucotomos", "?", "?"]
+        },
+        {
+          "avoid": [
+            "Creams with vitamin E",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sleep",
+      "free": false,
+      "supplements": [
+        {
+          "work": ["Magnesium", "?", "?"]
+        },
+        {
+          "mayWork": ["Lemon balm ", "?", "?"]
+        },
+        {
+          "avoid": ["Caffeine"]
+        }
+      ]
+    },
+    {
+      "title": "Stress & Anxiety",
+      "free": false,
+      "supplements": [
+        {
+          "work": ["Lavender", "?", "?", "?", "?"]
+        },
+        {
+          "mayWork": ["Ashwagandha", "?", "?", "?", "?"]
+        },
+        {
+          "avoid": ["Yohimbine", "?"]
+        }
+      ]
+    },
+    {
+      "title": "Memory & Focus",
+      "free": false,
+      "supplements": [
+        {
+          "work": ["Caffeine + Theanine", "?", "?"]
+        },
+        {
+          "mayWork": ["Creatine", "Uridine", "?", "?", "?"]
+        },
+        {
+          "avoid": ["Nicotine", "?"]
+        }
+      ]
+    },
+    {
+      "title": "Vegetarians & Vegans",
+      "free": false,
+      "supplements": [
+        {
+          "work": ["Iron + Vit. C", "?", "?", "?", "?", "?", "?", "?"]
+        },
+        {
+          "mayWork": ["Beta-alanine"]
+        },
+        {
+          "avoid": ["Omega 3-6-0"]
+        }
+      ]
+    },
+    {
+      "title": "Fat Loss",
+      "free": false,
+      "supplements": [
+        {
+          "work": ["Protein", "EGCg", "?", "?", "?"]
+        },
+        {
+          "mayWork": ["Fibar", "MCTS", "?", "?", "?", "?"]
+        },
+        {
+          "avoid": ["Berberine", "Raspberry ketone", "?", "?", "?", "?"]
+        }
+      ]
+    },
+    {
+      "title": "Liver Health",
+      "free": false,
+      "supplements": [
+        {
+          "work": ["Milk thistle", "TUDCA", "?", "?"]
+        },
+        {
+          "mayWork": ["Spirulina", "?", "?"]
+        },
+        {
+          "avoid": ["Alcohol"]
+        }
+      ]
+    },
+    {
+      "title": "Diabetes & Blood Sugar",
+      "free": false,
+      "supplements": [
+        {
+          "work": ["Zinc", "?", "?", "?", "?"]
+        },
+        {
+          "mayWork": ["Cinnamon", "?", "?"]
+        },
+        {
+          "avoid": [
+            "Corosolic acid",
+            "Vitamin C",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Testosterone",
+      "free": false,
+      "supplements": [
+        {
+          "work": ["DHEA", "?", "?", "?"]
+        },
+        {
+          "mayWork": ["Boron"]
+        },
+        {
+          "avoid": [
+            "Libido enhancers",
+            "Testosterone boosters",
+            "?",
+            "?",
+            "?",
+            "?"
+          ]
+        }
+      ]
+    }
+  ],
+  "latestScientific": [
+    {
+      "title": "Allergies & Immunity"
+    },
+    {
+      "title": "Bone Health"
+    },
+    {
+      "title": "Cardiovascular Health"
+    },
+    {
+      "title": "Men's Health"
+    },
+    {
+      "title": "Fat Loss"
+    }
+  ],
+  "twitters": [
+    {
+      "name": "Aaron Almaraz",
+      "position": "CEO & Founder at Gearat",
+      "comment": "Time is the most precious thing you have when bootstrapping. You can't take time to ponder on design…"
+    },
+    {
+      "name": "Phet Putrie",
+      "position": "Freelancer",
+      "comment": "Time is the most precious thing you have when bootstrapping. You can't take time to ponder on design…"
+    },
+    {
+      "name": "Lara Madrigal",
+      "position": "Marketing Specialist",
+      "comment": "Time is the most precious thing you have when bootstrapping. You can't take time to ponder on design…"
+    },
+    {
+      "name": "Marleah Eagleston",
+      "position": "Founder at Spicenet",
+      "comment": "Time is the most precious thing you have when bootstrapping. You can't take time to ponder on design…"
+    },
+    {
+      "name": "Prescott MacCaffery",
+      "position": "Writer",
+      "comment": "Time is the most precious thing you have when bootstrapping. You can't take time to ponder on design…"
+    },
+    {
+      "name": "Waiapi Karaka",
+      "position": "Designer, Freelancer",
+      "comment": "Time is the most precious thing you have when bootstrapping. You can't take time to ponder on design…"
+    }
+  ]
+}

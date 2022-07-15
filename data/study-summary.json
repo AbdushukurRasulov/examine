@@ -1,0 +1,898 @@
+{
+  "ss": [
+    {
+      "title": "Cardiovascular Disease",
+      "icon": "",
+      "collections": [
+        {
+          "title": "The effects of ginger supplementation on metabolic profiles in people with type 2 diabetes and comorbidities.",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin.",
+          "content": {
+            "quotation": "In this meta-analysis of prospective cohort studies, higher intakes of several flavonoid subclasses (anthocyanins, proanthocyanidins, flavonols, flavones, and isoflavones) were associated with a lower risk of coronary heart disease.",
+            "background": [
+              {
+                "p": "Flavonoids are a class of polyphenolic compounds found in a large number of plants, many of which are regularly consumed by humans. Flavonoids can be categorized into various subclasses, which include flavonols, flavones, flavan-3-ols, anthocyanins, flavanones, and isoflavones."
+              },
+              {
+                "p": "Higher total flavonoid intake has been associated with a lower risk of coronary heart disease (CHD).[21] However, this doesn’t necessarily mean that all flavonoid subclasses have the exact same effects on the risk of CHD. This meta-analysis of prospective cohorts looked at the association between CHD and specific flavonoid subclasses"
+              }
+            ],
+            "study": [
+              "This meta-analysis of 19 prospective cohort studies examined the association between various flavonoid subclasses and risk of CHD events using data from 894,471 participants. The included studies had follow-up periods ranging from 3.1 to 28 years, during which time 34,707 CHD events occurred.",
+              "The researchers assessed the following individual flavonoid subclasses: anthocyanins (8 studies), proanthocyanidins (4 studies), flavones (7 studies), isoflavones (6 studies), flavanones (8 studies), flavan-3-ols (6 studies), and flavonols (8 studies). They also looked at 3 specific flavonols: quercetin (6 studies), kaempferol (5 studies), and myricetin (5 studies).",
+              "The researchers compared the CHD risk associated with the highest and lowest intake of individual flavonoids. They also performed dose-response analyses to determine if there was a linear relationship between flavonoid dose and CHD risk."
+            ],
+
+            "result": [
+              "Comparing low-intake participants to high-intake participants resulted in the following findings:",
+              "Anthocyanins were associated with a 10% lower risk of CHD events, proanthocyanidins with a 22% lower risk, flavonols with a 12% lower risk, flavones with a 6% lower risk, and isoflavones with a 10% lower risk. The association between flavanones and flavan-3-ols did not reach statistical significance. There was likewise no statistically significant association between individual flavonols (i.e., quercetin, kaempferol, and myricetin) and risk of CHD.",
+              "In a dose-response analysis, the dosages associated with a 5% reduction in CHD risk were: 50 mg of anthocyanins, 100 mg of proanthocyanidins, 25 mg of flavonols, 5 mg of flavones, and 0.5 mg of isoflavones.",
+              "One study was classified as medium quality and 18 studies were classified as high quality."
+            ],
+            "lists": [
+              {
+                "title": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure.",
+                "reference": "22",
+                "hover": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure."
+              },
+              {
+                "title": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL.",
+                "reference": "23",
+                "hover": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL."
+              },
+              {
+                "title": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α.",
+                "reference": "25",
+                "hover": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α."
+              },
+              {
+                "title": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis.",
+                "reference": "27",
+                "hover": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis."
+              },
+              {
+                "title": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors.",
+                "reference": "22",
+                "hover": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors."
+              }
+            ]
+          }
+        },
+        {
+          "title": "What is the difference between fish oil and omega-3 fatty acids and can it help with Anxiety?",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin.",
+          "content": {
+            "quotation": "In this meta-analysis of prospective cohort studies, higher intakes of several flavonoid subclasses (anthocyanins, proanthocyanidins, flavonols, flavones, and isoflavones) were associated with a lower risk of coronary heart disease.",
+            "background": [
+              {
+                "p": "Flavonoids are a class of polyphenolic compounds found in a large number of plants, many of which are regularly consumed by humans. Flavonoids can be categorized into various subclasses, which include flavonols, flavones, flavan-3-ols, anthocyanins, flavanones, and isoflavones."
+              },
+              {
+                "p": "Higher total flavonoid intake has been associated with a lower risk of coronary heart disease (CHD).[21] However, this doesn’t necessarily mean that all flavonoid subclasses have the exact same effects on the risk of CHD. This meta-analysis of prospective cohorts looked at the association between CHD and specific flavonoid subclasses"
+              }
+            ],
+            "study": [
+              "This meta-analysis of 19 prospective cohort studies examined the association between various flavonoid subclasses and risk of CHD events using data from 894,471 participants. The included studies had follow-up periods ranging from 3.1 to 28 years, during which time 34,707 CHD events occurred.",
+              "The researchers assessed the following individual flavonoid subclasses: anthocyanins (8 studies), proanthocyanidins (4 studies), flavones (7 studies), isoflavones (6 studies), flavanones (8 studies), flavan-3-ols (6 studies), and flavonols (8 studies). They also looked at 3 specific flavonols: quercetin (6 studies), kaempferol (5 studies), and myricetin (5 studies).",
+              "The researchers compared the CHD risk associated with the highest and lowest intake of individual flavonoids. They also performed dose-response analyses to determine if there was a linear relationship between flavonoid dose and CHD risk."
+            ],
+
+            "result": [
+              "Comparing low-intake participants to high-intake participants resulted in the following findings:",
+              "Anthocyanins were associated with a 10% lower risk of CHD events, proanthocyanidins with a 22% lower risk, flavonols with a 12% lower risk, flavones with a 6% lower risk, and isoflavones with a 10% lower risk. The association between flavanones and flavan-3-ols did not reach statistical significance. There was likewise no statistically significant association between individual flavonols (i.e., quercetin, kaempferol, and myricetin) and risk of CHD.",
+              "In a dose-response analysis, the dosages associated with a 5% reduction in CHD risk were: 50 mg of anthocyanins, 100 mg of proanthocyanidins, 25 mg of flavonols, 5 mg of flavones, and 0.5 mg of isoflavones.",
+              "One study was classified as medium quality and 18 studies were classified as high quality."
+            ],
+            "lists": [
+              {
+                "title": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure.",
+                "reference": "22",
+                "hover": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure."
+              },
+              {
+                "title": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL.",
+                "reference": "23",
+                "hover": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL."
+              },
+              {
+                "title": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α.",
+                "reference": "25",
+                "hover": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α."
+              },
+              {
+                "title": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis.",
+                "reference": "27",
+                "hover": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis."
+              },
+              {
+                "title": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors.",
+                "reference": "22",
+                "hover": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors."
+              }
+            ]
+          }
+        },
+        {
+          "title": "The acute effects of Lavender oil in hyper-suspension, and it’s anxiolotic effect",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin.",
+          "content": {
+            "quotation": "In this meta-analysis of prospective cohort studies, higher intakes of several flavonoid subclasses (anthocyanins, proanthocyanidins, flavonols, flavones, and isoflavones) were associated with a lower risk of coronary heart disease.",
+            "background": [
+              {
+                "p": "Flavonoids are a class of polyphenolic compounds found in a large number of plants, many of which are regularly consumed by humans. Flavonoids can be categorized into various subclasses, which include flavonols, flavones, flavan-3-ols, anthocyanins, flavanones, and isoflavones."
+              },
+              {
+                "p": "Higher total flavonoid intake has been associated with a lower risk of coronary heart disease (CHD).[21] However, this doesn’t necessarily mean that all flavonoid subclasses have the exact same effects on the risk of CHD. This meta-analysis of prospective cohorts looked at the association between CHD and specific flavonoid subclasses"
+              }
+            ],
+            "study": [
+              "This meta-analysis of 19 prospective cohort studies examined the association between various flavonoid subclasses and risk of CHD events using data from 894,471 participants. The included studies had follow-up periods ranging from 3.1 to 28 years, during which time 34,707 CHD events occurred.",
+              "The researchers assessed the following individual flavonoid subclasses: anthocyanins (8 studies), proanthocyanidins (4 studies), flavones (7 studies), isoflavones (6 studies), flavanones (8 studies), flavan-3-ols (6 studies), and flavonols (8 studies). They also looked at 3 specific flavonols: quercetin (6 studies), kaempferol (5 studies), and myricetin (5 studies).",
+              "The researchers compared the CHD risk associated with the highest and lowest intake of individual flavonoids. They also performed dose-response analyses to determine if there was a linear relationship between flavonoid dose and CHD risk."
+            ],
+
+            "result": [
+              "Comparing low-intake participants to high-intake participants resulted in the following findings:",
+              "Anthocyanins were associated with a 10% lower risk of CHD events, proanthocyanidins with a 22% lower risk, flavonols with a 12% lower risk, flavones with a 6% lower risk, and isoflavones with a 10% lower risk. The association between flavanones and flavan-3-ols did not reach statistical significance. There was likewise no statistically significant association between individual flavonols (i.e., quercetin, kaempferol, and myricetin) and risk of CHD.",
+              "In a dose-response analysis, the dosages associated with a 5% reduction in CHD risk were: 50 mg of anthocyanins, 100 mg of proanthocyanidins, 25 mg of flavonols, 5 mg of flavones, and 0.5 mg of isoflavones.",
+              "One study was classified as medium quality and 18 studies were classified as high quality."
+            ],
+            "lists": [
+              {
+                "title": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure.",
+                "reference": "22",
+                "hover": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure."
+              },
+              {
+                "title": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL.",
+                "reference": "23",
+                "hover": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL."
+              },
+              {
+                "title": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α.",
+                "reference": "25",
+                "hover": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α."
+              },
+              {
+                "title": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis.",
+                "reference": "27",
+                "hover": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis."
+              },
+              {
+                "title": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors.",
+                "reference": "22",
+                "hover": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Depression, Anxiety & Stress",
+      "icon": "",
+      "collections": [
+        {
+          "title": "The effects of ginger supplementation on metabolic profiles in people with type 2 diabetes and comorbidities.",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin.",
+          "content": {
+            "quotation": "In this meta-analysis of prospective cohort studies, higher intakes of several flavonoid subclasses (anthocyanins, proanthocyanidins, flavonols, flavones, and isoflavones) were associated with a lower risk of coronary heart disease.",
+            "background": [
+              {
+                "p": "Flavonoids are a class of polyphenolic compounds found in a large number of plants, many of which are regularly consumed by humans. Flavonoids can be categorized into various subclasses, which include flavonols, flavones, flavan-3-ols, anthocyanins, flavanones, and isoflavones."
+              },
+              {
+                "p": "Higher total flavonoid intake has been associated with a lower risk of coronary heart disease (CHD).[21] However, this doesn’t necessarily mean that all flavonoid subclasses have the exact same effects on the risk of CHD. This meta-analysis of prospective cohorts looked at the association between CHD and specific flavonoid subclasses"
+              }
+            ],
+            "study": [
+              "This meta-analysis of 19 prospective cohort studies examined the association between various flavonoid subclasses and risk of CHD events using data from 894,471 participants. The included studies had follow-up periods ranging from 3.1 to 28 years, during which time 34,707 CHD events occurred.",
+              "The researchers assessed the following individual flavonoid subclasses: anthocyanins (8 studies), proanthocyanidins (4 studies), flavones (7 studies), isoflavones (6 studies), flavanones (8 studies), flavan-3-ols (6 studies), and flavonols (8 studies). They also looked at 3 specific flavonols: quercetin (6 studies), kaempferol (5 studies), and myricetin (5 studies).",
+              "The researchers compared the CHD risk associated with the highest and lowest intake of individual flavonoids. They also performed dose-response analyses to determine if there was a linear relationship between flavonoid dose and CHD risk."
+            ],
+
+            "result": [
+              "Comparing low-intake participants to high-intake participants resulted in the following findings:",
+              "Anthocyanins were associated with a 10% lower risk of CHD events, proanthocyanidins with a 22% lower risk, flavonols with a 12% lower risk, flavones with a 6% lower risk, and isoflavones with a 10% lower risk. The association between flavanones and flavan-3-ols did not reach statistical significance. There was likewise no statistically significant association between individual flavonols (i.e., quercetin, kaempferol, and myricetin) and risk of CHD.",
+              "In a dose-response analysis, the dosages associated with a 5% reduction in CHD risk were: 50 mg of anthocyanins, 100 mg of proanthocyanidins, 25 mg of flavonols, 5 mg of flavones, and 0.5 mg of isoflavones.",
+              "One study was classified as medium quality and 18 studies were classified as high quality."
+            ],
+            "lists": [
+              {
+                "title": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure.",
+                "reference": "22",
+                "hover": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure."
+              },
+              {
+                "title": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL.",
+                "reference": "23",
+                "hover": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL."
+              },
+              {
+                "title": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α.",
+                "reference": "25",
+                "hover": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α."
+              },
+              {
+                "title": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis.",
+                "reference": "27",
+                "hover": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis."
+              },
+              {
+                "title": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors.",
+                "reference": "22",
+                "hover": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors."
+              }
+            ]
+          }
+        },
+        {
+          "title": "What is the difference between fish oil and omega-3 fatty acids and can it help with Anxiety?",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin.",
+          "content": {
+            "quotation": "In this meta-analysis of prospective cohort studies, higher intakes of several flavonoid subclasses (anthocyanins, proanthocyanidins, flavonols, flavones, and isoflavones) were associated with a lower risk of coronary heart disease.",
+            "background": [
+              {
+                "p": "Flavonoids are a class of polyphenolic compounds found in a large number of plants, many of which are regularly consumed by humans. Flavonoids can be categorized into various subclasses, which include flavonols, flavones, flavan-3-ols, anthocyanins, flavanones, and isoflavones."
+              },
+              {
+                "p": "Higher total flavonoid intake has been associated with a lower risk of coronary heart disease (CHD).[21] However, this doesn’t necessarily mean that all flavonoid subclasses have the exact same effects on the risk of CHD. This meta-analysis of prospective cohorts looked at the association between CHD and specific flavonoid subclasses"
+              }
+            ],
+            "study": [
+              "This meta-analysis of 19 prospective cohort studies examined the association between various flavonoid subclasses and risk of CHD events using data from 894,471 participants. The included studies had follow-up periods ranging from 3.1 to 28 years, during which time 34,707 CHD events occurred.",
+              "The researchers assessed the following individual flavonoid subclasses: anthocyanins (8 studies), proanthocyanidins (4 studies), flavones (7 studies), isoflavones (6 studies), flavanones (8 studies), flavan-3-ols (6 studies), and flavonols (8 studies). They also looked at 3 specific flavonols: quercetin (6 studies), kaempferol (5 studies), and myricetin (5 studies).",
+              "The researchers compared the CHD risk associated with the highest and lowest intake of individual flavonoids. They also performed dose-response analyses to determine if there was a linear relationship between flavonoid dose and CHD risk."
+            ],
+
+            "result": [
+              "Comparing low-intake participants to high-intake participants resulted in the following findings:",
+              "Anthocyanins were associated with a 10% lower risk of CHD events, proanthocyanidins with a 22% lower risk, flavonols with a 12% lower risk, flavones with a 6% lower risk, and isoflavones with a 10% lower risk. The association between flavanones and flavan-3-ols did not reach statistical significance. There was likewise no statistically significant association between individual flavonols (i.e., quercetin, kaempferol, and myricetin) and risk of CHD.",
+              "In a dose-response analysis, the dosages associated with a 5% reduction in CHD risk were: 50 mg of anthocyanins, 100 mg of proanthocyanidins, 25 mg of flavonols, 5 mg of flavones, and 0.5 mg of isoflavones.",
+              "One study was classified as medium quality and 18 studies were classified as high quality."
+            ],
+            "lists": [
+              {
+                "title": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure.",
+                "reference": "22",
+                "hover": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure."
+              },
+              {
+                "title": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL.",
+                "reference": "23",
+                "hover": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL."
+              },
+              {
+                "title": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α.",
+                "reference": "25",
+                "hover": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α."
+              },
+              {
+                "title": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis.",
+                "reference": "27",
+                "hover": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis."
+              },
+              {
+                "title": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors.",
+                "reference": "22",
+                "hover": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors."
+              }
+            ]
+          }
+        },
+        {
+          "title": "The acute effects of Lavender oil in hyper-suspension, and it’s anxiolotic effect",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin.",
+          "content": {
+            "quotation": "In this meta-analysis of prospective cohort studies, higher intakes of several flavonoid subclasses (anthocyanins, proanthocyanidins, flavonols, flavones, and isoflavones) were associated with a lower risk of coronary heart disease.",
+            "background": [
+              {
+                "p": "Flavonoids are a class of polyphenolic compounds found in a large number of plants, many of which are regularly consumed by humans. Flavonoids can be categorized into various subclasses, which include flavonols, flavones, flavan-3-ols, anthocyanins, flavanones, and isoflavones."
+              },
+              {
+                "p": "Higher total flavonoid intake has been associated with a lower risk of coronary heart disease (CHD).[21] However, this doesn’t necessarily mean that all flavonoid subclasses have the exact same effects on the risk of CHD. This meta-analysis of prospective cohorts looked at the association between CHD and specific flavonoid subclasses"
+              }
+            ],
+            "study": [
+              "This meta-analysis of 19 prospective cohort studies examined the association between various flavonoid subclasses and risk of CHD events using data from 894,471 participants. The included studies had follow-up periods ranging from 3.1 to 28 years, during which time 34,707 CHD events occurred.",
+              "The researchers assessed the following individual flavonoid subclasses: anthocyanins (8 studies), proanthocyanidins (4 studies), flavones (7 studies), isoflavones (6 studies), flavanones (8 studies), flavan-3-ols (6 studies), and flavonols (8 studies). They also looked at 3 specific flavonols: quercetin (6 studies), kaempferol (5 studies), and myricetin (5 studies).",
+              "The researchers compared the CHD risk associated with the highest and lowest intake of individual flavonoids. They also performed dose-response analyses to determine if there was a linear relationship between flavonoid dose and CHD risk."
+            ],
+
+            "result": [
+              "Comparing low-intake participants to high-intake participants resulted in the following findings:",
+              "Anthocyanins were associated with a 10% lower risk of CHD events, proanthocyanidins with a 22% lower risk, flavonols with a 12% lower risk, flavones with a 6% lower risk, and isoflavones with a 10% lower risk. The association between flavanones and flavan-3-ols did not reach statistical significance. There was likewise no statistically significant association between individual flavonols (i.e., quercetin, kaempferol, and myricetin) and risk of CHD.",
+              "In a dose-response analysis, the dosages associated with a 5% reduction in CHD risk were: 50 mg of anthocyanins, 100 mg of proanthocyanidins, 25 mg of flavonols, 5 mg of flavones, and 0.5 mg of isoflavones.",
+              "One study was classified as medium quality and 18 studies were classified as high quality."
+            ],
+            "lists": [
+              {
+                "title": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure.",
+                "reference": "22",
+                "hover": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure."
+              },
+              {
+                "title": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL.",
+                "reference": "23",
+                "hover": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL."
+              },
+              {
+                "title": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α.",
+                "reference": "25",
+                "hover": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α."
+              },
+              {
+                "title": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis.",
+                "reference": "27",
+                "hover": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis."
+              },
+              {
+                "title": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors.",
+                "reference": "22",
+                "hover": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Diets & Foods",
+      "icon": "",
+      "collections": [
+        {
+          "title": "The effects of ginger supplementation on metabolic profiles in people with type 2 diabetes and comorbidities.",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin.",
+          "content": {
+            "quotation": "In this meta-analysis of prospective cohort studies, higher intakes of several flavonoid subclasses (anthocyanins, proanthocyanidins, flavonols, flavones, and isoflavones) were associated with a lower risk of coronary heart disease.",
+            "background": [
+              {
+                "p": "Flavonoids are a class of polyphenolic compounds found in a large number of plants, many of which are regularly consumed by humans. Flavonoids can be categorized into various subclasses, which include flavonols, flavones, flavan-3-ols, anthocyanins, flavanones, and isoflavones."
+              },
+              {
+                "p": "Higher total flavonoid intake has been associated with a lower risk of coronary heart disease (CHD).[21] However, this doesn’t necessarily mean that all flavonoid subclasses have the exact same effects on the risk of CHD. This meta-analysis of prospective cohorts looked at the association between CHD and specific flavonoid subclasses"
+              }
+            ],
+            "study": [
+              "This meta-analysis of 19 prospective cohort studies examined the association between various flavonoid subclasses and risk of CHD events using data from 894,471 participants. The included studies had follow-up periods ranging from 3.1 to 28 years, during which time 34,707 CHD events occurred.",
+              "The researchers assessed the following individual flavonoid subclasses: anthocyanins (8 studies), proanthocyanidins (4 studies), flavones (7 studies), isoflavones (6 studies), flavanones (8 studies), flavan-3-ols (6 studies), and flavonols (8 studies). They also looked at 3 specific flavonols: quercetin (6 studies), kaempferol (5 studies), and myricetin (5 studies).",
+              "The researchers compared the CHD risk associated with the highest and lowest intake of individual flavonoids. They also performed dose-response analyses to determine if there was a linear relationship between flavonoid dose and CHD risk."
+            ],
+
+            "result": [
+              "Comparing low-intake participants to high-intake participants resulted in the following findings:",
+              "Anthocyanins were associated with a 10% lower risk of CHD events, proanthocyanidins with a 22% lower risk, flavonols with a 12% lower risk, flavones with a 6% lower risk, and isoflavones with a 10% lower risk. The association between flavanones and flavan-3-ols did not reach statistical significance. There was likewise no statistically significant association between individual flavonols (i.e., quercetin, kaempferol, and myricetin) and risk of CHD.",
+              "In a dose-response analysis, the dosages associated with a 5% reduction in CHD risk were: 50 mg of anthocyanins, 100 mg of proanthocyanidins, 25 mg of flavonols, 5 mg of flavones, and 0.5 mg of isoflavones.",
+              "One study was classified as medium quality and 18 studies were classified as high quality."
+            ],
+            "lists": [
+              {
+                "title": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure.",
+                "reference": "22",
+                "hover": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure."
+              },
+              {
+                "title": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL.",
+                "reference": "23",
+                "hover": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL."
+              },
+              {
+                "title": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α.",
+                "reference": "25",
+                "hover": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α."
+              },
+              {
+                "title": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis.",
+                "reference": "27",
+                "hover": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis."
+              },
+              {
+                "title": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors.",
+                "reference": "22",
+                "hover": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors."
+              }
+            ]
+          }
+        },
+        {
+          "title": "What is the difference between fish oil and omega-3 fatty acids and can it help with Anxiety?",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin.",
+          "content": {
+            "quotation": "In this meta-analysis of prospective cohort studies, higher intakes of several flavonoid subclasses (anthocyanins, proanthocyanidins, flavonols, flavones, and isoflavones) were associated with a lower risk of coronary heart disease.",
+            "background": [
+              {
+                "p": "Flavonoids are a class of polyphenolic compounds found in a large number of plants, many of which are regularly consumed by humans. Flavonoids can be categorized into various subclasses, which include flavonols, flavones, flavan-3-ols, anthocyanins, flavanones, and isoflavones."
+              },
+              {
+                "p": "Higher total flavonoid intake has been associated with a lower risk of coronary heart disease (CHD).[21] However, this doesn’t necessarily mean that all flavonoid subclasses have the exact same effects on the risk of CHD. This meta-analysis of prospective cohorts looked at the association between CHD and specific flavonoid subclasses"
+              }
+            ],
+            "study": [
+              "This meta-analysis of 19 prospective cohort studies examined the association between various flavonoid subclasses and risk of CHD events using data from 894,471 participants. The included studies had follow-up periods ranging from 3.1 to 28 years, during which time 34,707 CHD events occurred.",
+              "The researchers assessed the following individual flavonoid subclasses: anthocyanins (8 studies), proanthocyanidins (4 studies), flavones (7 studies), isoflavones (6 studies), flavanones (8 studies), flavan-3-ols (6 studies), and flavonols (8 studies). They also looked at 3 specific flavonols: quercetin (6 studies), kaempferol (5 studies), and myricetin (5 studies).",
+              "The researchers compared the CHD risk associated with the highest and lowest intake of individual flavonoids. They also performed dose-response analyses to determine if there was a linear relationship between flavonoid dose and CHD risk."
+            ],
+
+            "result": [
+              "Comparing low-intake participants to high-intake participants resulted in the following findings:",
+              "Anthocyanins were associated with a 10% lower risk of CHD events, proanthocyanidins with a 22% lower risk, flavonols with a 12% lower risk, flavones with a 6% lower risk, and isoflavones with a 10% lower risk. The association between flavanones and flavan-3-ols did not reach statistical significance. There was likewise no statistically significant association between individual flavonols (i.e., quercetin, kaempferol, and myricetin) and risk of CHD.",
+              "In a dose-response analysis, the dosages associated with a 5% reduction in CHD risk were: 50 mg of anthocyanins, 100 mg of proanthocyanidins, 25 mg of flavonols, 5 mg of flavones, and 0.5 mg of isoflavones.",
+              "One study was classified as medium quality and 18 studies were classified as high quality."
+            ],
+            "lists": [
+              {
+                "title": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure.",
+                "reference": "22",
+                "hover": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure."
+              },
+              {
+                "title": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL.",
+                "reference": "23",
+                "hover": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL."
+              },
+              {
+                "title": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α.",
+                "reference": "25",
+                "hover": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α."
+              },
+              {
+                "title": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis.",
+                "reference": "27",
+                "hover": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis."
+              },
+              {
+                "title": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors.",
+                "reference": "22",
+                "hover": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors."
+              }
+            ]
+          }
+        },
+        {
+          "title": "The acute effects of Lavender oil in hyper-suspension, and it’s anxiolotic effect",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin.",
+          "content": {
+            "quotation": "In this meta-analysis of prospective cohort studies, higher intakes of several flavonoid subclasses (anthocyanins, proanthocyanidins, flavonols, flavones, and isoflavones) were associated with a lower risk of coronary heart disease.",
+            "background": [
+              {
+                "p": "Flavonoids are a class of polyphenolic compounds found in a large number of plants, many of which are regularly consumed by humans. Flavonoids can be categorized into various subclasses, which include flavonols, flavones, flavan-3-ols, anthocyanins, flavanones, and isoflavones."
+              },
+              {
+                "p": "Higher total flavonoid intake has been associated with a lower risk of coronary heart disease (CHD).[21] However, this doesn’t necessarily mean that all flavonoid subclasses have the exact same effects on the risk of CHD. This meta-analysis of prospective cohorts looked at the association between CHD and specific flavonoid subclasses"
+              }
+            ],
+            "study": [
+              "This meta-analysis of 19 prospective cohort studies examined the association between various flavonoid subclasses and risk of CHD events using data from 894,471 participants. The included studies had follow-up periods ranging from 3.1 to 28 years, during which time 34,707 CHD events occurred.",
+              "The researchers assessed the following individual flavonoid subclasses: anthocyanins (8 studies), proanthocyanidins (4 studies), flavones (7 studies), isoflavones (6 studies), flavanones (8 studies), flavan-3-ols (6 studies), and flavonols (8 studies). They also looked at 3 specific flavonols: quercetin (6 studies), kaempferol (5 studies), and myricetin (5 studies).",
+              "The researchers compared the CHD risk associated with the highest and lowest intake of individual flavonoids. They also performed dose-response analyses to determine if there was a linear relationship between flavonoid dose and CHD risk."
+            ],
+
+            "result": [
+              "Comparing low-intake participants to high-intake participants resulted in the following findings:",
+              "Anthocyanins were associated with a 10% lower risk of CHD events, proanthocyanidins with a 22% lower risk, flavonols with a 12% lower risk, flavones with a 6% lower risk, and isoflavones with a 10% lower risk. The association between flavanones and flavan-3-ols did not reach statistical significance. There was likewise no statistically significant association between individual flavonols (i.e., quercetin, kaempferol, and myricetin) and risk of CHD.",
+              "In a dose-response analysis, the dosages associated with a 5% reduction in CHD risk were: 50 mg of anthocyanins, 100 mg of proanthocyanidins, 25 mg of flavonols, 5 mg of flavones, and 0.5 mg of isoflavones.",
+              "One study was classified as medium quality and 18 studies were classified as high quality."
+            ],
+            "lists": [
+              {
+                "title": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure.",
+                "reference": "22",
+                "hover": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure."
+              },
+              {
+                "title": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL.",
+                "reference": "23",
+                "hover": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL."
+              },
+              {
+                "title": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α.",
+                "reference": "25",
+                "hover": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α."
+              },
+              {
+                "title": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis.",
+                "reference": "27",
+                "hover": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis."
+              },
+              {
+                "title": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors.",
+                "reference": "22",
+                "hover": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Diabetes & Blood Sugar",
+      "icon": "",
+      "collections": [
+        {
+          "title": "The effects of ginger supplementation on metabolic profiles in people with type 2 diabetes and comorbidities.",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin."
+        },
+        {
+          "title": "What is the difference between fish oil and omega-3 fatty acids and can it help with Anxiety?",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin."
+        },
+        {
+          "title": "The acute effects of Lavender oil in hyper-suspension, and it’s anxiolotic effect",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin."
+        }
+      ]
+    },
+    {
+      "title": "Cannabis & CBD",
+      "icon": "",
+      "collections": [
+        {
+          "title": "The effects of ginger supplementation on metabolic profiles in people with type 2 diabetes and comorbidities.",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin.",
+          "content": {
+            "quotation": "In this meta-analysis of prospective cohort studies, higher intakes of several flavonoid subclasses (anthocyanins, proanthocyanidins, flavonols, flavones, and isoflavones) were associated with a lower risk of coronary heart disease.",
+            "background": [
+              {
+                "p": "Flavonoids are a class of polyphenolic compounds found in a large number of plants, many of which are regularly consumed by humans. Flavonoids can be categorized into various subclasses, which include flavonols, flavones, flavan-3-ols, anthocyanins, flavanones, and isoflavones."
+              },
+              {
+                "p": "Higher total flavonoid intake has been associated with a lower risk of coronary heart disease (CHD).[21] However, this doesn’t necessarily mean that all flavonoid subclasses have the exact same effects on the risk of CHD. This meta-analysis of prospective cohorts looked at the association between CHD and specific flavonoid subclasses"
+              }
+            ],
+            "study": [
+              "This meta-analysis of 19 prospective cohort studies examined the association between various flavonoid subclasses and risk of CHD events using data from 894,471 participants. The included studies had follow-up periods ranging from 3.1 to 28 years, during which time 34,707 CHD events occurred.",
+              "The researchers assessed the following individual flavonoid subclasses: anthocyanins (8 studies), proanthocyanidins (4 studies), flavones (7 studies), isoflavones (6 studies), flavanones (8 studies), flavan-3-ols (6 studies), and flavonols (8 studies). They also looked at 3 specific flavonols: quercetin (6 studies), kaempferol (5 studies), and myricetin (5 studies).",
+              "The researchers compared the CHD risk associated with the highest and lowest intake of individual flavonoids. They also performed dose-response analyses to determine if there was a linear relationship between flavonoid dose and CHD risk."
+            ],
+
+            "result": [
+              "Comparing low-intake participants to high-intake participants resulted in the following findings:",
+              "Anthocyanins were associated with a 10% lower risk of CHD events, proanthocyanidins with a 22% lower risk, flavonols with a 12% lower risk, flavones with a 6% lower risk, and isoflavones with a 10% lower risk. The association between flavanones and flavan-3-ols did not reach statistical significance. There was likewise no statistically significant association between individual flavonols (i.e., quercetin, kaempferol, and myricetin) and risk of CHD.",
+              "In a dose-response analysis, the dosages associated with a 5% reduction in CHD risk were: 50 mg of anthocyanins, 100 mg of proanthocyanidins, 25 mg of flavonols, 5 mg of flavones, and 0.5 mg of isoflavones.",
+              "One study was classified as medium quality and 18 studies were classified as high quality."
+            ],
+            "lists": [
+              {
+                "title": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure.",
+                "reference": "22",
+                "hover": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure."
+              },
+              {
+                "title": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL.",
+                "reference": "23",
+                "hover": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL."
+              },
+              {
+                "title": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α.",
+                "reference": "25",
+                "hover": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α."
+              },
+              {
+                "title": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis.",
+                "reference": "27",
+                "hover": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis."
+              },
+              {
+                "title": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors.",
+                "reference": "22",
+                "hover": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors."
+              }
+            ]
+          }
+        },
+        {
+          "title": "What is the difference between fish oil and omega-3 fatty acids and can it help with Anxiety?",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin.",
+          "content": {
+            "quotation": "In this meta-analysis of prospective cohort studies, higher intakes of several flavonoid subclasses (anthocyanins, proanthocyanidins, flavonols, flavones, and isoflavones) were associated with a lower risk of coronary heart disease.",
+            "background": [
+              {
+                "p": "Flavonoids are a class of polyphenolic compounds found in a large number of plants, many of which are regularly consumed by humans. Flavonoids can be categorized into various subclasses, which include flavonols, flavones, flavan-3-ols, anthocyanins, flavanones, and isoflavones."
+              },
+              {
+                "p": "Higher total flavonoid intake has been associated with a lower risk of coronary heart disease (CHD).[21] However, this doesn’t necessarily mean that all flavonoid subclasses have the exact same effects on the risk of CHD. This meta-analysis of prospective cohorts looked at the association between CHD and specific flavonoid subclasses"
+              }
+            ],
+            "study": [
+              "This meta-analysis of 19 prospective cohort studies examined the association between various flavonoid subclasses and risk of CHD events using data from 894,471 participants. The included studies had follow-up periods ranging from 3.1 to 28 years, during which time 34,707 CHD events occurred.",
+              "The researchers assessed the following individual flavonoid subclasses: anthocyanins (8 studies), proanthocyanidins (4 studies), flavones (7 studies), isoflavones (6 studies), flavanones (8 studies), flavan-3-ols (6 studies), and flavonols (8 studies). They also looked at 3 specific flavonols: quercetin (6 studies), kaempferol (5 studies), and myricetin (5 studies).",
+              "The researchers compared the CHD risk associated with the highest and lowest intake of individual flavonoids. They also performed dose-response analyses to determine if there was a linear relationship between flavonoid dose and CHD risk."
+            ],
+
+            "result": [
+              "Comparing low-intake participants to high-intake participants resulted in the following findings:",
+              "Anthocyanins were associated with a 10% lower risk of CHD events, proanthocyanidins with a 22% lower risk, flavonols with a 12% lower risk, flavones with a 6% lower risk, and isoflavones with a 10% lower risk. The association between flavanones and flavan-3-ols did not reach statistical significance. There was likewise no statistically significant association between individual flavonols (i.e., quercetin, kaempferol, and myricetin) and risk of CHD.",
+              "In a dose-response analysis, the dosages associated with a 5% reduction in CHD risk were: 50 mg of anthocyanins, 100 mg of proanthocyanidins, 25 mg of flavonols, 5 mg of flavones, and 0.5 mg of isoflavones.",
+              "One study was classified as medium quality and 18 studies were classified as high quality."
+            ],
+            "lists": [
+              {
+                "title": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure.",
+                "reference": "22",
+                "hover": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure."
+              },
+              {
+                "title": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL.",
+                "reference": "23",
+                "hover": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL."
+              },
+              {
+                "title": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α.",
+                "reference": "25",
+                "hover": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α."
+              },
+              {
+                "title": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis.",
+                "reference": "27",
+                "hover": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis."
+              },
+              {
+                "title": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors.",
+                "reference": "22",
+                "hover": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors."
+              }
+            ]
+          }
+        },
+        {
+          "title": "The acute effects of Lavender oil in hyper-suspension, and it’s anxiolotic effect",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin.",
+          "content": {
+            "quotation": "In this meta-analysis of prospective cohort studies, higher intakes of several flavonoid subclasses (anthocyanins, proanthocyanidins, flavonols, flavones, and isoflavones) were associated with a lower risk of coronary heart disease.",
+            "background": [
+              {
+                "p": "Flavonoids are a class of polyphenolic compounds found in a large number of plants, many of which are regularly consumed by humans. Flavonoids can be categorized into various subclasses, which include flavonols, flavones, flavan-3-ols, anthocyanins, flavanones, and isoflavones."
+              },
+              {
+                "p": "Higher total flavonoid intake has been associated with a lower risk of coronary heart disease (CHD).[21] However, this doesn’t necessarily mean that all flavonoid subclasses have the exact same effects on the risk of CHD. This meta-analysis of prospective cohorts looked at the association between CHD and specific flavonoid subclasses"
+              }
+            ],
+            "study": [
+              "This meta-analysis of 19 prospective cohort studies examined the association between various flavonoid subclasses and risk of CHD events using data from 894,471 participants. The included studies had follow-up periods ranging from 3.1 to 28 years, during which time 34,707 CHD events occurred.",
+              "The researchers assessed the following individual flavonoid subclasses: anthocyanins (8 studies), proanthocyanidins (4 studies), flavones (7 studies), isoflavones (6 studies), flavanones (8 studies), flavan-3-ols (6 studies), and flavonols (8 studies). They also looked at 3 specific flavonols: quercetin (6 studies), kaempferol (5 studies), and myricetin (5 studies).",
+              "The researchers compared the CHD risk associated with the highest and lowest intake of individual flavonoids. They also performed dose-response analyses to determine if there was a linear relationship between flavonoid dose and CHD risk."
+            ],
+
+            "result": [
+              "Comparing low-intake participants to high-intake participants resulted in the following findings:",
+              "Anthocyanins were associated with a 10% lower risk of CHD events, proanthocyanidins with a 22% lower risk, flavonols with a 12% lower risk, flavones with a 6% lower risk, and isoflavones with a 10% lower risk. The association between flavanones and flavan-3-ols did not reach statistical significance. There was likewise no statistically significant association between individual flavonols (i.e., quercetin, kaempferol, and myricetin) and risk of CHD.",
+              "In a dose-response analysis, the dosages associated with a 5% reduction in CHD risk were: 50 mg of anthocyanins, 100 mg of proanthocyanidins, 25 mg of flavonols, 5 mg of flavones, and 0.5 mg of isoflavones.",
+              "One study was classified as medium quality and 18 studies were classified as high quality."
+            ],
+            "lists": [
+              {
+                "title": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure.",
+                "reference": "22",
+                "hover": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure."
+              },
+              {
+                "title": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL.",
+                "reference": "23",
+                "hover": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL."
+              },
+              {
+                "title": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α.",
+                "reference": "25",
+                "hover": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α."
+              },
+              {
+                "title": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis.",
+                "reference": "27",
+                "hover": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis."
+              },
+              {
+                "title": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors.",
+                "reference": "22",
+                "hover": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Autoimmune Disease & Allergies",
+      "icon": "",
+      "collections": [
+        {
+          "title": "The effects of ginger supplementation on metabolic profiles in people with type 2 diabetes and comorbidities.",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin.",
+          "content": {
+            "quotation": "In this meta-analysis of prospective cohort studies, higher intakes of several flavonoid subclasses (anthocyanins, proanthocyanidins, flavonols, flavones, and isoflavones) were associated with a lower risk of coronary heart disease.",
+            "background": [
+              {
+                "p": "Flavonoids are a class of polyphenolic compounds found in a large number of plants, many of which are regularly consumed by humans. Flavonoids can be categorized into various subclasses, which include flavonols, flavones, flavan-3-ols, anthocyanins, flavanones, and isoflavones."
+              },
+              {
+                "p": "Higher total flavonoid intake has been associated with a lower risk of coronary heart disease (CHD).[21] However, this doesn’t necessarily mean that all flavonoid subclasses have the exact same effects on the risk of CHD. This meta-analysis of prospective cohorts looked at the association between CHD and specific flavonoid subclasses"
+              }
+            ],
+            "study": [
+              "This meta-analysis of 19 prospective cohort studies examined the association between various flavonoid subclasses and risk of CHD events using data from 894,471 participants. The included studies had follow-up periods ranging from 3.1 to 28 years, during which time 34,707 CHD events occurred.",
+              "The researchers assessed the following individual flavonoid subclasses: anthocyanins (8 studies), proanthocyanidins (4 studies), flavones (7 studies), isoflavones (6 studies), flavanones (8 studies), flavan-3-ols (6 studies), and flavonols (8 studies). They also looked at 3 specific flavonols: quercetin (6 studies), kaempferol (5 studies), and myricetin (5 studies).",
+              "The researchers compared the CHD risk associated with the highest and lowest intake of individual flavonoids. They also performed dose-response analyses to determine if there was a linear relationship between flavonoid dose and CHD risk."
+            ],
+
+            "result": [
+              "Comparing low-intake participants to high-intake participants resulted in the following findings:",
+              "Anthocyanins were associated with a 10% lower risk of CHD events, proanthocyanidins with a 22% lower risk, flavonols with a 12% lower risk, flavones with a 6% lower risk, and isoflavones with a 10% lower risk. The association between flavanones and flavan-3-ols did not reach statistical significance. There was likewise no statistically significant association between individual flavonols (i.e., quercetin, kaempferol, and myricetin) and risk of CHD.",
+              "In a dose-response analysis, the dosages associated with a 5% reduction in CHD risk were: 50 mg of anthocyanins, 100 mg of proanthocyanidins, 25 mg of flavonols, 5 mg of flavones, and 0.5 mg of isoflavones.",
+              "One study was classified as medium quality and 18 studies were classified as high quality."
+            ],
+            "lists": [
+              {
+                "title": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure.",
+                "reference": "22",
+                "hover": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure."
+              },
+              {
+                "title": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL.",
+                "reference": "23",
+                "hover": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL."
+              },
+              {
+                "title": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α.",
+                "reference": "25",
+                "hover": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α."
+              },
+              {
+                "title": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis.",
+                "reference": "27",
+                "hover": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis."
+              },
+              {
+                "title": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors.",
+                "reference": "22",
+                "hover": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors."
+              }
+            ]
+          }
+        },
+        {
+          "title": "What is the difference between fish oil and omega-3 fatty acids and can it help with Anxiety?",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin.",
+          "content": {
+            "quotation": "In this meta-analysis of prospective cohort studies, higher intakes of several flavonoid subclasses (anthocyanins, proanthocyanidins, flavonols, flavones, and isoflavones) were associated with a lower risk of coronary heart disease.",
+            "background": [
+              {
+                "p": "Flavonoids are a class of polyphenolic compounds found in a large number of plants, many of which are regularly consumed by humans. Flavonoids can be categorized into various subclasses, which include flavonols, flavones, flavan-3-ols, anthocyanins, flavanones, and isoflavones."
+              },
+              {
+                "p": "Higher total flavonoid intake has been associated with a lower risk of coronary heart disease (CHD).[21] However, this doesn’t necessarily mean that all flavonoid subclasses have the exact same effects on the risk of CHD. This meta-analysis of prospective cohorts looked at the association between CHD and specific flavonoid subclasses"
+              }
+            ],
+            "study": [
+              "This meta-analysis of 19 prospective cohort studies examined the association between various flavonoid subclasses and risk of CHD events using data from 894,471 participants. The included studies had follow-up periods ranging from 3.1 to 28 years, during which time 34,707 CHD events occurred.",
+              "The researchers assessed the following individual flavonoid subclasses: anthocyanins (8 studies), proanthocyanidins (4 studies), flavones (7 studies), isoflavones (6 studies), flavanones (8 studies), flavan-3-ols (6 studies), and flavonols (8 studies). They also looked at 3 specific flavonols: quercetin (6 studies), kaempferol (5 studies), and myricetin (5 studies).",
+              "The researchers compared the CHD risk associated with the highest and lowest intake of individual flavonoids. They also performed dose-response analyses to determine if there was a linear relationship between flavonoid dose and CHD risk."
+            ],
+
+            "result": [
+              "Comparing low-intake participants to high-intake participants resulted in the following findings:",
+              "Anthocyanins were associated with a 10% lower risk of CHD events, proanthocyanidins with a 22% lower risk, flavonols with a 12% lower risk, flavones with a 6% lower risk, and isoflavones with a 10% lower risk. The association between flavanones and flavan-3-ols did not reach statistical significance. There was likewise no statistically significant association between individual flavonols (i.e., quercetin, kaempferol, and myricetin) and risk of CHD.",
+              "In a dose-response analysis, the dosages associated with a 5% reduction in CHD risk were: 50 mg of anthocyanins, 100 mg of proanthocyanidins, 25 mg of flavonols, 5 mg of flavones, and 0.5 mg of isoflavones.",
+              "One study was classified as medium quality and 18 studies were classified as high quality."
+            ],
+            "lists": [
+              {
+                "title": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure.",
+                "reference": "22",
+                "hover": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure."
+              },
+              {
+                "title": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL.",
+                "reference": "23",
+                "hover": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL."
+              },
+              {
+                "title": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α.",
+                "reference": "25",
+                "hover": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α."
+              },
+              {
+                "title": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis.",
+                "reference": "27",
+                "hover": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis."
+              },
+              {
+                "title": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors.",
+                "reference": "22",
+                "hover": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors."
+              }
+            ]
+          }
+        },
+        {
+          "title": "The acute effects of Lavender oil in hyper-suspension, and it’s anxiolotic effect",
+          "date": "January 3 2022",
+          "categories": ["Men’s Health", "Anxiety"],
+          "text": "Ginger supplementation reduced fasting blood glucose, glycated hemoglobin, and blood pressure in participants with type 2 diabetes. Ginger supplementation reduced fasting blood glucose, glycated hemoglobin.",
+          "content": {
+            "quotation": "In this meta-analysis of prospective cohort studies, higher intakes of several flavonoid subclasses (anthocyanins, proanthocyanidins, flavonols, flavones, and isoflavones) were associated with a lower risk of coronary heart disease.",
+            "background": [
+              {
+                "p": "Flavonoids are a class of polyphenolic compounds found in a large number of plants, many of which are regularly consumed by humans. Flavonoids can be categorized into various subclasses, which include flavonols, flavones, flavan-3-ols, anthocyanins, flavanones, and isoflavones."
+              },
+              {
+                "p": "Higher total flavonoid intake has been associated with a lower risk of coronary heart disease (CHD).[21] However, this doesn’t necessarily mean that all flavonoid subclasses have the exact same effects on the risk of CHD. This meta-analysis of prospective cohorts looked at the association between CHD and specific flavonoid subclasses"
+              }
+            ],
+            "study": [
+              "This meta-analysis of 19 prospective cohort studies examined the association between various flavonoid subclasses and risk of CHD events using data from 894,471 participants. The included studies had follow-up periods ranging from 3.1 to 28 years, during which time 34,707 CHD events occurred.",
+              "The researchers assessed the following individual flavonoid subclasses: anthocyanins (8 studies), proanthocyanidins (4 studies), flavones (7 studies), isoflavones (6 studies), flavanones (8 studies), flavan-3-ols (6 studies), and flavonols (8 studies). They also looked at 3 specific flavonols: quercetin (6 studies), kaempferol (5 studies), and myricetin (5 studies).",
+              "The researchers compared the CHD risk associated with the highest and lowest intake of individual flavonoids. They also performed dose-response analyses to determine if there was a linear relationship between flavonoid dose and CHD risk."
+            ],
+
+            "result": [
+              "Comparing low-intake participants to high-intake participants resulted in the following findings:",
+              "Anthocyanins were associated with a 10% lower risk of CHD events, proanthocyanidins with a 22% lower risk, flavonols with a 12% lower risk, flavones with a 6% lower risk, and isoflavones with a 10% lower risk. The association between flavanones and flavan-3-ols did not reach statistical significance. There was likewise no statistically significant association between individual flavonols (i.e., quercetin, kaempferol, and myricetin) and risk of CHD.",
+              "In a dose-response analysis, the dosages associated with a 5% reduction in CHD risk were: 50 mg of anthocyanins, 100 mg of proanthocyanidins, 25 mg of flavonols, 5 mg of flavones, and 0.5 mg of isoflavones.",
+              "One study was classified as medium quality and 18 studies were classified as high quality."
+            ],
+            "lists": [
+              {
+                "title": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure.",
+                "reference": "22",
+                "hover": "A 2021 meta-analysis found that proanthocyanidins reduced blood pressure."
+              },
+              {
+                "title": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL.",
+                "reference": "23",
+                "hover": "A 2017 meta-analysis found that flavonols lowered blood pressure and fasting glucose and increased HDL."
+              },
+              {
+                "title": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α.",
+                "reference": "25",
+                "hover": "A 2018 meta-analysis found that anthocyanins lowered LDL and ApoB and increased HDL,[24] and a 2020 meta-analysis found that anthocyanins reduced the inflammatory markers CRP, IL-6, and TNF-α."
+              },
+              {
+                "title": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis.",
+                "reference": "27",
+                "hover": "Isoflavones were found to lower blood pressure in people with hypertension in a 2012 meta-analysis[26] and improve arterial stiffness in a 2021 meta-analysis."
+              },
+              {
+                "title": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors.",
+                "reference": "22",
+                "hover": "AFlavones have not been the subject of nearly as much clinical research as other flavonoids in terms of their effect on cardiovascular risk factors."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

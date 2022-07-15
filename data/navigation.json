@@ -1,0 +1,28 @@
+{
+  "navLinks": [
+    {
+      "href": "/categories",
+      "name": "Categories"
+    },
+    {
+      "href": "/conditions",
+      "name": "Conditions"
+    },
+    {
+      "href": "/interventions",
+      "name": "Interventions"
+    },
+    {
+      "href": "/outcomes",
+      "name": "Outcomes"
+    },
+    {
+      "href": "/membership",
+      "name": "Membership"
+    },
+    {
+      "href": "/about-us",
+      "name": "About Us"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "jumborton": {
+    "title": "Depression",
+    "text": "Depression is a chronic state of low mood often associated with hopelessness, apathy, and fatigue. Unlike sadness, depression is a disorder that persists for weeks or months and interferes with daily life.",
+
+    "author": {
+      "name": "Michael Hull",
+      "info": "MBA, MPH, PhD(c) nutrition"
+    },
+    "reviewed": "Examine Team",
+    "lastUpdate": "Jan 27th, 2022",
+    "exvidence": {
+      "studies": "328",
+      "participants": "6420",
+      "outcomes": {
+        "a": "21",
+        "b": "21",
+        "c": "21",
+        "d": "21",
+        "f": "21"
+      }
+    }
+  },
+  "content": {
+    "overview": {
+      "text": "Depression is a state of low mood, often associated with hopelessness and apathy.[1] It's not simply sadness, although that may be part of it. Sadness can be a normal temporary response to upsetting events, while depression is more rooted in symptoms that persist for weeks or months and interfere with daily life. \n The most common depressive disorder is major depressive disorder (MDD), a condition that affects nearly 322 million people worldwide[2] and is one of the largest contributors to global disability. The World Health Organization (WHO) estimates that the number of people living with depression increased by nearly 20% from 2005 to 2015. \n Although estimated to be more common in females[3] and adults, depressive symptoms are frequently found in both sexes and all age groups.[4] Depression often first manifests in young adulthood or teenage years but may not be formally diagnosed until much later."
+    },
+    "causes": {
+      "text": "The causes of depression are complex: brain dysfunction, genetics, environment, biology, age, and psychological factors can all play a role. One of the first major theories was that depression was caused by low levels of serotonin, a neurotransmitter that notably helps regulate mood.[5] However, more recent studies have contradicted this theory.[6] Some showed that selective serotonin reuptake inhibitors (SSRIs), a type of antidepressant drug, increased serotonin levels instantly, but improvements in patients with depression took weeks.[7] Others showed that using drugs to deplete serotonin in healthy individuals simply caused irritation or temporary insomnia, not depression.[8] \n This has led some researchers to suggest that antidepressants work by mechanisms other than upping serotonin, such as increasing brain-derived neurotrophic factor (BDNF), a molecule associated with brain growth.[9] Because of this, BDNF levels have been proposed as a better observable variable than serotonin levels to indicate the efficacy of antidepressants. But changes in BDNF levels don’t appear to occur uniformly across all antidepressants.[10]\n Today, the serotonin hypothesis has lost much of its credibility with neuroscientists and psychiatrists. Several new biological theories of depression have emerged and gained traction, exploring the roles of neuroinflammation,[11] neurotoxicity (more precisely, excitotoxicity[12]), hypothalamic-pituitary-adrenal (HPA) axis dysfunction,[13] and circadian-rhythm abnormalities.[14]\n Additionally, observational studies have linked depressive symptoms to nutrient deficiencies[15] and seasonal decreases in sunlight exposure. Unfortunately, in either case, it is difficult to assess whether these links are causal because other variables might be at play. For instance, less sunlight is associated with less exercise, and both are associated with worse sleep.[16] In turn, less exercise[17] and worse sleep are associated with lower mood.[18][19][20]"
+    },
+    "symptoms": {
+      "text": "Symptoms of depression can vary. Below are some of the more common ones. As you can see, diagnosing depression can be tricky, because opposite symptoms can manifest in different people, such as sleeping too much for one and the inability to sleep for another.",
+      "list": [
+        "Aches and pains",
+        "Anxiety",
+        "Cramps",
+        "Digestive problems",
+        "Fatigue",
+        "Guilt",
+        "Headaches",
+        "Hopelessness",
+        "Inability to sleep",
+        "Irritability"
+      ],
+      "text2": "Personality can factor in also. Some people may become withdrawn and hesitant to socialize, having feelings of guilt and worthlessness, while some may be excessively irritable and hostile. The common thread, again, isn't necessarily sadness but may be mild anhedonia — a diminished ability to feel pleasure."
+    },
+    "diagnosis": {
+      "blockquotes": {
+        "type": "caution",
+        "title": "Caution: Don’t self-diagnose"
+      },
+      "text": "By far, the most common way to measure depression is with questionnaires designed to rate the severity of known symptoms of depression. There are other approaches, such as behavioral assessments and neuroimaging, but those are much less common in research. \n Mood disorders are difficult to diagnose, notably because they cannot be assessed objectively. To diagnose depression, doctors need to weigh subjective symptoms, such as anxiety, fatigue, insomnia, and low appetite. \n Not only are those symptoms subjective, but not everyone living with depression will have them all, and the severity will also differ from person to person.[21] One person with depression may suffer from narcolepsy, serious fatigue, loss of interest, and some anxiety, while another may suffer from serious anxiety, very little fatigue, and insomnia. \n Different depression assessment questionnaires can be completed by the patient or the clinician.\n Common patient-completed questionnaires include the Beck Depression Inventory-II (BDI-II)[23] and the self-reported 30-item Inventory of Depressive Symptomatology (IDS-SR30).[23] Common clinician-completed questionnaires include the Hamilton Depression Rating Scale (HDRS)[24] and the Montgomery-Åsberg Depression Rating Scale (MADRS).[25] According to the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM–5), the main types of depressive disorders are:",
+      "list": [
+        "Depressive disorder due to another medical condition",
+        "Disruptive mood dysregulation disorder",
+        "Major depressive disorder, including major depressive episode",
+        "Digestive problems",
+        "Other specified depressive disorder",
+        "Persistent depressive disorder (dysthymia)",
+        "Premenstrual dysphoric disorder",
+        "Substance/medication-induced depressive disorder",
+        "Unspecified depressive disorder"
+      ],
+      "text2": "These may be further classified by “specifiers”, such as peripartum onset (e.g., postpartum depression), seasonal pattern (e.g., seasonal affective disorder), melancholic features, mood-congruent or mood-incongruent psychotic features, anxious distress, and catatonia (e.g., abnormal movement).",
+      "treatments": {
+        "text": "Depression is a complex mental disorder, and there are several barriers to measuring and treating it. Taming it may require long-term work with a trained professional who has good judgment and tries various interventions to see what works best for you.\n The subjectivity and variability of depression symptoms from person to person make it hard to establish robust, generalized theories and find treatments that work for everyone. In this section, we will cover some treatments that have shown the most promise as treatment options.",
+        "extra": [
+          {
+            "supplements": {
+              "title": "Supplements",
+              "text": "Supplements such as magnesium and lavender have good evidence for dampening anxiety severity to a moderate extent. On the flip side, nicotine and yohimbine may worsen anxiety.\n The table below displays an analysis of human studies and indicates how supplements may affect anxiety. While there is no cure-all, some supplements may aid in anxiety control or symptom relief."
+            },
+            "diets": {
+              "title": "Diets & foods",
+              "text": "Supplements such as magnesium and lavender have good evidence for dampening anxiety severity to a moderate extent. On the flip side, nicotine and yohimbine may worsen anxiety.\n The table below displays an analysis of human studies and indicates how supplements may affect anxiety. While there is no cure-all, some supplements may aid in anxiety control or symptom relief."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

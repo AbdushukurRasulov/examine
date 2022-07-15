@@ -1,0 +1,64 @@
+{
+    "archiveMonths":[
+          {
+          "slug": "december-2021",
+          "name": "December 2021",
+          "new": true
+          },
+              {
+          "slug": "november-2021",
+          "name": "November 2021",
+          "new":false
+          },
+              {
+          "slug": "october-2021",
+          "name": "October 2021",
+          "new": false
+          },
+              {
+          "slug": "september-2021",
+          "name": "September 2021",
+          "new": false
+          },
+              {
+          "slug": "august-2021",
+          "name": "August 2021",
+          "new": false
+          },
+              {
+          "slug": "july-2021",
+          "name": "July 2021",
+          "new": false
+          },
+              {
+          "slug": "june-2021",
+          "name": "June 2021",
+          "new": false
+          },
+              {
+          "slug": "may-2021",
+          "name": "May 2021",
+          "new": false
+          },
+              {
+          "slug": "april-2021",
+          "name": "April 2021",
+          "new": false
+          },
+              {
+          "slug": "March-2021",
+          "name": "March 2021",
+          "new": false
+          },
+              {
+          "slug": "february-2021",
+          "name": "February 2021",
+          "new": false
+          },
+              {
+          "slug": "january-2021",
+          "name": "January 2021",
+          "new": false
+          }
+    ]
+}

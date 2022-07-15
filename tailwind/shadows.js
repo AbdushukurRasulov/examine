@@ -1,0 +1,18 @@
+module.exports = {
+  header: '0px 2px 6px rgba(0, 0, 0, 0.08)',
+  form: '0px 2px 12px rgba(0, 0, 0, 0.08);',
+  'search-inset': 'inset 0px 0px 18px -4px rgba(0, 0, 0, 0.15)',
+  search: '0px 4px 4px rgba(0, 0, 0, 0.04)',
+  input: '0px 1px 2px rgba(50, 50, 71, 0.08), 0px 0px 1px rgba(50, 50, 71, 0.2)',
+  'input-hover': '0px 4px 16px rgba(184, 218, 255, 0.12)',
+  sidebar: '0px 4px 13px rgba(0, 0, 0, 0.15)',
+  select: '0px 0px 1px rgb(50 50 71 / 40%), 0px 1px 2px rgb(50 50 71 / 15%)',
+  'hero-img': '0px -18px 84px rgb(29 41 63 / 12%)',
+  'home-tab': '0px 8px 27px rgba(0, 0, 0, 0.07)',
+  'read-guide': '6px 6px 0 #E7D0FF',
+  'home-arrow': '0px 14px 14px rgba(0, 0, 0, 0.1);',
+  'social-icon': '0px 0px 1px rgba(12, 26, 75, 0.2), 0px 1px 3px rgba(50, 50, 71, 0.1)',
+  'account-dropdown': '0px 0px 2px rgba(0, 0, 0, 0.06), 0px 14px 32px rgba(0, 0, 0, 0.12)',
+  'sales-card': '0px 10px 51px rgba(29, 53, 71, 0.07)',
+  'sales-card-2': '0px 24px 48px rgba(145, 158, 171, 0.2)',
+}

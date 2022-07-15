@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'typography.scss';
+@import 'form.scss';
+@import 'custom.scss';
+@import 'swiper.scss';
+
+@layer base {
+  #__next {
+    @apply flex min-h-screen flex-col;
+  }
+
+  body {
+    @apply relative overflow-x-hidden bg-main font-inter text-gray-900;
+  }
+
+  sup {
+    @apply text-sm font-semibold leading-4 text-examine-purple-500;
+  }
+}
+
+@layer utilities {
+  .text-stroke {
+    -webkit-text-stroke: 0.3px currentColor;
+  }
+
+  .isActive-link {
+    @apply text-examine-green-500;
+  }
+}
+
+#__next,
+main {
+  @apply flex flex-1 flex-col;
+}
+
+.accordian-content a {
+  text-decoration: underline !important;
+  color: #5e3b76;
+}
+
+@media screen and (max-width: 600px) {
+  ._2jvtI {
+    display: flex !important;
+    font-size: 14px !important;
+  }
+}
